@@ -62711,7 +62711,7 @@ $0(){this.a.jV("https://www.linkedin.com/in/pavana-nr")},
 $S:0}
 A.Bv.prototype={
 O(a){var s,r=null,q=t.N
-q=A.c([B.zo,B.vD,B.HN,new A.D1(A.c([A.av(["title","Todo App","description","A simple Flutter Todo app","url","https://github.com/yourname/todo-app"],q,q),A.av(["title","Weather App","description","Weather forecast using OpenWeatherMap API","url","https://github.com/yourname/weather-app"],q,q)],t.m0),r),B.ym],t.F)
+q=A.c([B.zo,B.vD,B.HN,new A.D1(A.c([A.av(["title","Demo Todo App","description","A simple Flutter Todo app","url","https://github.com/yourname/todo-app"],q,q),A.av(["title","Weather App","description","Weather forecast using OpenWeatherMap API","url","https://github.com/yourname/weather-app"],q,q)],t.m0),r),B.ym],t.F)
 s=A.av([null,0],t.LO,t.S)
 return new A.ux(new A.qc(B.LR,new A.J4(r,r,1/0,56),r),new A.C3(new A.a_q(!0,!0,!0,q,s),r,B.bW,!1,r,r,B.vL,!1,r,5,B.bc,B.FX,r,B.ap,B.ai,r),r)}}
 A.D1.prototype={
