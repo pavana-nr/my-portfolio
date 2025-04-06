@@ -5,7 +5,7 @@ class ProjectsSection extends StatelessWidget {
   
   final List<Map<String, String>> projects = [
     {
-      'title': 'Todo App',
+      'title': 'Demo Todo App',
       'description': 'A simple Flutter Todo app',
       'url': 'https://github.com/yourname/todo-app'
     },
